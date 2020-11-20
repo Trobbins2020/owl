@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participant Component renders the UI as expected 1`] = `
+<div
+  className="Participant"
+>
+  <p>
+    Name: 
+  </p>
+  <p>
+     inSession: 
+    False
+  </p>
+  <img />
+  <h2>
+    
+  </h2>
+</div>
+`;

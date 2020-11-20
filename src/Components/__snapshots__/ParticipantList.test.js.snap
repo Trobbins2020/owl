@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ParticipantList Component renders the UI as expected 1`] = `
+<div>
+  <h1>
+    Participants
+  </h1>
+  <div
+    className="Participant"
+  >
+    <p>
+      Name: 
+      Koren Templeton
+    </p>
+    <p>
+       inSession: 
+      True
+    </p>
+    <img
+      alt="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <h2>
+      
+    </h2>
+  </div>
+  <div
+    className="Participant"
+  >
+    <p>
+      Name: 
+      Caty Flucker
+    </p>
+    <p>
+       inSession: 
+      True
+    </p>
+    <img
+      alt="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <h2>
+      
+    </h2>
+  </div>
+  <div
+    className="Participant"
+  >
+    <p>
+      Name: 
+      Frank Runciman
+    </p>
+    <p>
+       inSession: 
+      True
+    </p>
+    <img
+      alt="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+      src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+    />
+    <h2>
+      
+    </h2>
+  </div>
+  <div
+    className="Participant"
+  >
+    <p>
+      Name: 
+      Ashla Attwool
+    </p>
+    <p>
+       inSession: 
+      True
+    </p>
+    <img
+      alt="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <h2>
+      
+    </h2>
+  </div>
+  <div
+    className="Participant"
+  >
+    <p>
+      Name: 
+      Axe Kubicka
+    </p>
+    <p>
+       inSession: 
+      False
+    </p>
+    <img
+      alt="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <h2>
+      
+    </h2>
+  </div>
+</div>
+`;
